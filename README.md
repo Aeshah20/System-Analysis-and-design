@@ -21,9 +21,13 @@ because Duolingo is a  gamified app. Most of the time, the activities give them 
 
  # Objectives
 •	We aim to give users a great experience by applying our new system to old Duolingo system problems.
+
 •	The new system will provide meaningful, logical, and grammatically correct exercises supervised by English teachers.
+
 •	Our new system will enable the beginner to chat with teachers for premium and with other beginners for free.
+
 •	Also, we will add a dictionary that authorizes beginners the ability to register difficult words, and the system will link the word to a reliable website to enrich their knowledge.
+
 •	There will be a cards section that enables beginners who have learning disabilities to see and hear the sound of letters and numbers repeatedly.
 
 
@@ -56,9 +60,16 @@ They are people who just beginning to learn English and are not yet very good at
 ![image](https://github.com/Aeshah20/System-Analysis-and-design/assets/116434155/cbbbdff7-2dfe-4d56-8178-0a5060d9863c)
 
 
+
+
+
 Data Flow Diagram
 Data Flow Diagram (DFD) Level 0
 ![image](https://github.com/Aeshah20/System-Analysis-and-design/assets/116434155/8ce64c06-01e8-47d6-95af-d5db20d64058)
+
+
+
+
 
 
 Data Flow Diagram (Dfd) Level 1
